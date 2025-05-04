@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Daniel Chmielewski
+Sudent Email:  dachmiel@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+In this assignment I was able to practice more with using interactive dashboards to visualize data effectively using Python libraries. One challenge I faced was making sure the data was properly formatted for mapping with GeoPandas. Overall, I enjoyed the assignment and thought that visualizing data using coordinates and geospatial data was able to show a more interesting side to data than previously with just tables.
